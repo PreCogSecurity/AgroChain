@@ -8,7 +8,7 @@ An Agricultural Supply Chain tracks a farm product from the farmer to the consum
 
 ### Agro-market
 
-In the recent past, we have read many incidents regarding the farmer suicides due to debts and poor yield from farming. For a country like India, with the rise in population, dependency over the land for building houses and industrial areas is increasing rapidly. The fertile land for farming is dwindling and more yields have to be produced to satisfy the need of the country. Even though the demand increase, the farmers are suffering from some major issues like : 
+In the recent past, we have read many incidents regarding the farmer suicides due to debts and poor yield from farming. For a country like Zimbabwe, with the rise in population, dependency over the land for building houses and industrial areas is increasing rapidly. The fertile land for farming is dwindling and more yields have to be produced to satisfy the need of the country. Even though the demand increase, the farmers are suffering from some major issues like : 
 
 i.	Raising the initial investment for setting up the field due to high bank interest rates.
 
@@ -80,7 +80,5 @@ The micro-finance form enables any user to fund a farmer. The funding is done by
 
 # About Us
 
-We are a group of researchers based at Indian Institute Of Information Technology and Management - Kerala
-
-Website/Contact : http://agrochain.in/
+We are an innovative Cyber-Security Company
 
